@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - .collabignore
+    - Assets/AurynSky.meta
+    - Assets/AurynSky/Gems Ultimate Pack.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Materials.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Materials/BG.mat
+    - Assets/AurynSky/Gems Ultimate Pack/Materials/BG.mat.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Materials/Blank.mat
+    - Assets/AurynSky/Gems Ultimate Pack/Materials/Blank.mat.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Materials/Blue.mat
+    - Assets/AurynSky/Gems Ultimate Pack/Materials/Blue.mat.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Materials/Green.mat
+    - Assets/AurynSky/Gems Ultimate Pack/Materials/Green.mat.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Materials/Material.mat
+    - Assets/AurynSky/Gems Ultimate Pack/Materials/Material.mat.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Materials/Orange.mat
+    - Assets/AurynSky/Gems Ultimate Pack/Materials/Orange.mat.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Materials/Pink.mat
+    - Assets/AurynSky/Gems Ultimate Pack/Materials/Pink.mat.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Materials/Purple.mat
+    - Assets/AurynSky/Gems Ultimate Pack/Materials/Purple.mat.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Materials/Red.mat
+    - Assets/AurynSky/Gems Ultimate Pack/Materials/Red.mat.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Materials/Yellow.mat
+    - Assets/AurynSky/Gems Ultimate Pack/Materials/Yellow.mat.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Models.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Models/4 Side Diamond.fbx
+    - Assets/AurynSky/Gems Ultimate Pack/Models/4 Side Diamond.fbx.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Models/5 Side Diamond.fbx
+    - Assets/AurynSky/Gems Ultimate Pack/Models/5 Side Diamond.fbx.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Models/BeveledStar.fbx
+    - Assets/AurynSky/Gems Ultimate Pack/Models/BeveledStar.fbx.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Models/Cubie.fbx
+    - Assets/AurynSky/Gems Ultimate Pack/Models/Cubie.fbx.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Models/CubieBeveled.fbx
+    - Assets/AurynSky/Gems Ultimate Pack/Models/CubieBeveled.fbx.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Models/Cuboid.fbx
+    - Assets/AurynSky/Gems Ultimate Pack/Models/Cuboid.fbx.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Models/Diamondo.fbx
+    - Assets/AurynSky/Gems Ultimate Pack/Models/Diamondo.fbx.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Models/Diamondo5side.fbx
+    - Assets/AurynSky/Gems Ultimate Pack/Models/Diamondo5side.fbx.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Models/HardStar.fbx
+    - Assets/AurynSky/Gems Ultimate Pack/Models/HardStar.fbx.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Models/Heart.fbx
+    - Assets/AurynSky/Gems Ultimate Pack/Models/Heart.fbx.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Models/Hexgon.fbx
+    - Assets/AurynSky/Gems Ultimate Pack/Models/Hexgon.fbx.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Models/Penta.fbx
+    - Assets/AurynSky/Gems Ultimate Pack/Models/Penta.fbx.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Models/SoftStar.fbx
+    - Assets/AurynSky/Gems Ultimate Pack/Models/SoftStar.fbx.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Models/SphereGemLarge.fbx
+    - Assets/AurynSky/Gems Ultimate Pack/Models/SphereGemLarge.fbx.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Models/SphereGemSmall.fbx
+    - Assets/AurynSky/Gems Ultimate Pack/Models/SphereGemSmall.fbx.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Models/Spiral.fbx
+    - Assets/AurynSky/Gems Ultimate Pack/Models/Spiral.fbx.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Prefabs.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Prefabs/4 Side Diamond.prefab
+    - Assets/AurynSky/Gems Ultimate Pack/Prefabs/4 Side Diamond.prefab.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Prefabs/5 Side Diamond.prefab
+    - Assets/AurynSky/Gems Ultimate Pack/Prefabs/5 Side Diamond.prefab.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Prefabs/BeveledStar.prefab
+    - Assets/AurynSky/Gems Ultimate Pack/Prefabs/BeveledStar.prefab.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Prefabs/Cubie.prefab
+    - Assets/AurynSky/Gems Ultimate Pack/Prefabs/Cubie.prefab.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Prefabs/CubieBeveled.prefab
+    - Assets/AurynSky/Gems Ultimate Pack/Prefabs/CubieBeveled.prefab.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Prefabs/Cuboid.prefab
+    - Assets/AurynSky/Gems Ultimate Pack/Prefabs/Cuboid.prefab.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Prefabs/Diamondo.prefab
+    - Assets/AurynSky/Gems Ultimate Pack/Prefabs/Diamondo.prefab.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Prefabs/Diamondo5side.prefab
+    - Assets/AurynSky/Gems Ultimate Pack/Prefabs/Diamondo5side.prefab.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Prefabs/HardStar.prefab
+    - Assets/AurynSky/Gems Ultimate Pack/Prefabs/HardStar.prefab.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Prefabs/Heart.prefab
+    - Assets/AurynSky/Gems Ultimate Pack/Prefabs/Heart.prefab.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Prefabs/Hexgon.prefab
+    - Assets/AurynSky/Gems Ultimate Pack/Prefabs/Hexgon.prefab.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Prefabs/Penta.prefab
+    - Assets/AurynSky/Gems Ultimate Pack/Prefabs/Penta.prefab.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Prefabs/SoftStar.prefab
+    - Assets/AurynSky/Gems Ultimate Pack/Prefabs/SoftStar.prefab.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Prefabs/SphereGemLarge.prefab
+    - Assets/AurynSky/Gems Ultimate Pack/Prefabs/SphereGemLarge.prefab.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Prefabs/SphereGemSmall.prefab
+    - Assets/AurynSky/Gems Ultimate Pack/Prefabs/SphereGemSmall.prefab.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Prefabs/Spiral.prefab
+    - Assets/AurynSky/Gems Ultimate Pack/Prefabs/Spiral.prefab.meta
+    - Assets/AurynSky/Gems Ultimate Pack/READ ME.txt
+    - Assets/AurynSky/Gems Ultimate Pack/READ ME.txt.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Scenes.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Scenes/DemoScene_Gems.unity
+    - Assets/AurynSky/Gems Ultimate Pack/Scenes/DemoScene_Gems.unity.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Scripts.meta
+    - Assets/AurynSky/Gems Ultimate Pack/Scripts/AnimationScript.cs
+    - Assets/AurynSky/Gems Ultimate Pack/Scripts/AnimationScript.cs.meta
+    - Assets/New Material.mat
+    - Assets/New Material.mat.meta
+    - Assets/Scenes.meta
+    - Assets/Scenes/SampleScene.unity
+    - Assets/Scenes/SampleScene.unity.meta
+    - Assets/Scenes/cube material.mat
+    - Assets/Scenes/cube material.mat.meta
+    - Assets/Scenes/test.unity
+    - Assets/Scenes/test.unity.meta
+    - Assets/bounce.physicMaterial
+    - Assets/bounce.physicMaterial.meta
+    - Packages/manifest.json
+    - Packages/packages-lock.json
+    - ProjectSettings/AudioManager.asset
+    - ProjectSettings/ClusterInputManager.asset
+    - ProjectSettings/DynamicsManager.asset
+    - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/EditorSettings.asset
+    - ProjectSettings/GraphicsSettings.asset
+    - ProjectSettings/InputManager.asset
+    - ProjectSettings/NavMeshAreas.asset
+    - ProjectSettings/Physics2DSettings.asset
+    - ProjectSettings/PresetManager.asset
+    - ProjectSettings/ProjectSettings.asset
+    - ProjectSettings/ProjectVersion.txt
+    - ProjectSettings/QualitySettings.asset
+    - ProjectSettings/TagManager.asset
+    - ProjectSettings/TimeManager.asset
+    - ProjectSettings/UnityConnectSettings.asset
+    - ProjectSettings/VFXManager.asset
+    - ProjectSettings/VersionControlSettings.asset
+    - 
+    m_Values: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
